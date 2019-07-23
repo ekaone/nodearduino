@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ekaone/nodearduino/issues"
   },
-  "homepage": "https://github.com/ekaone/nodearduino#readme"
+  "homepage": "https://github.com/ekaone/nodearduino#readme",
+  "dependencies": {
+    "johnny-five": "^1.2.0"
+  }
 }
