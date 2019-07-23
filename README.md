@@ -11,6 +11,6 @@ npm install
 ```
 
 ## Reference
-[Johnny-five](http://johnny-five.io/)
-[NodeJS](https://nodejs.org/en/)
-[NPM](https://www.npmjs.com/)
+* [Johnny-five](http://johnny-five.io/)
+* [NodeJS](https://nodejs.org/en/)
+* [NPM](https://www.npmjs.com/)
