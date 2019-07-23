@@ -1,10 +1,16 @@
 # nodearduino
 
-Tutorial modul Microcontroller Arduino UNO dengan menggunakan Node JS 
+Tutorial Board Arduino UNO dengan menggunakan Node JS dan Library Johnny-five
 
+## Installation
+
+Install Dependencies
+
+```bash
 npm install
+```
 
-Referensi:
-## http://johnny-five.io/
-## https://nodejs.org/en/
-## https://www.npmjs.com/
+## Reference
+[Johnny-five](http://johnny-five.io/)
+[NodeJS](https://nodejs.org/en/)
+[NPM](https://www.npmjs.com/)
