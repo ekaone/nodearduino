@@ -13,7 +13,7 @@ board.on("ready", function () {
 
     leds.fadeIn();
 
-    this.wait(3000, function () {
+    this.wait(2000, function () {
         leds.fadeOut();
     });
 });
